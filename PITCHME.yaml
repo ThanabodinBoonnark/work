@@ -2,7 +2,7 @@
 layout : center
 
 # Look-and-Feel
-logo : assets/images/logo.png
+logo : https://cdn.pixabay.com/photo/2018/01/22/11/55/figure-3098784_1280.png
 theme : night
 theme-override : assets/css/PITCHME.css
 highlight : ir-black

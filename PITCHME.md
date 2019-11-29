@@ -1,22 +1,12 @@
-<<<<<<< HEAD
-﻿@snap[north-west byline] Thai @snapend
-@snap[west headline text-white] @size[0.75em](@color[orange]ประเทศไทย)น่าอยู่อย่างไร @snapend
-
+﻿@snap[west headline text-white] @size[0.75em](@color[orange]ประเทศไทย)น่าอยู่อย่างไร @snapend
 ---
+
 ## @size[0.75em]@color[yellow](ประเทศไทย)น่าอยู่จริงๆนะ
-=======
-﻿@snap[north-west byline] Test
-# @color[yellow](ประเทศไทย)
-# น่าอยู่อย่างไร
-
----
-## @color[yellow](ประเทศไทย)น่าอยู่จริงๆนะ
->>>>>>> 1e1e3e61297013fcc4ea005a163e4050a39ff23e
 
 @size[0.6em](ที่@color[yellow](ประเทศไทย)น่าอยู่น่าจะเป็นเพราะอาหารอร่อยกับสถานที่ท่องเที่ยวและเมืองโบราณมั้งครับแต่!ก็ยังมีสิ่งที่ทำให้ประเทศไทยไม่น่าอยู่ก็มีเยอะนะครับแต่จะไม่พูดถึงแล้วกันครับ)
 ---
 ### @size[0.75em](1. อาหารอร่อย)
-![240*240](https://mpics.mgronline.com/pics/Images/562000009111301.JPEG)
+![](https://mpics.mgronline.com/pics/Images/562000009111301.JPEG)
 
 @size[0.6em](ดูสิครับมันน่าอร่อยมากเลยแต่ละรูปที่เห็นประเทศไทยน่าอยู่จริงๆ)
 ---

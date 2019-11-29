@@ -1,7 +1,7 @@
 ﻿@snap[north-west byline]
 
 # @color[yellow](ประเทศไทย)
-#            น่าอยู่อย่างไร
+   # น่าอยู่อย่างไร
 ---
 
 ## @size[0.75em]@color[yellow](ประเทศไทย)น่าอยู่จริงๆนะ
@@ -36,5 +36,4 @@
 ### ขนาดชาวต่างชาติ
 ### ยังชอบ@color[yellow](ประเทศไทย)เลย
 @size[0.6em](ไม่เชื่อก็มาดู**@color[orange](คลิป)**นี้กันเลยดีกว่าครับ)
-+++
----?video=http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
++++?video=http://k007.kiwi6.com/hotlink/v7a74dybtf/Picnicly.mp4

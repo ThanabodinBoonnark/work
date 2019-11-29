@@ -22,6 +22,15 @@
 ![](https://s.isanook.com/tr/0/rp/r/w728/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL3RyLzAvdWQvMjgzLzE0MTU4OTEvdGc0Zy5qcGc=.jpg)
 
 @size[0.6em](เมืองโบราณเป็นที่ๆน่าดึงดูดคนมาดูจริงๆเลยครับสวยงามมาก@color[yellow](ประเทศไทย)น่าอยู่จริงๆมันน่าอยู่จริงๆแหละครับ)
+
+---
+### ขนาดชาวต่างชาติ
+### ยังชอบ@color[yellow](ประเทศไทย)เลย
+@size[0.6em](ไม่เชื่อก็มาดู**@color[orange](คลิป)**นี้กันเลยดีกว่าครับ)
++++
+#### กดดูได้เลยครับ
+<iframe width="1044" height="587" src="https://www.youtube.com/embed/2RZU_Riw824" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 ### คำถาม
 
@@ -32,10 +41,3 @@
 +++
 #### คำตอบ
  >@size[0.75em](อากาศร้อน)
----
-### ขนาดชาวต่างชาติ
-### ยังชอบ@color[yellow](ประเทศไทย)เลย
-@size[0.6em](ไม่เชื่อก็มาดู**@color[orange](คลิป)**นี้กันเลยดีกว่าครับ)
-+++
-#### กดดูได้เลย
-<iframe width="1044" height="587" src="https://www.youtube.com/embed/2RZU_Riw824" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

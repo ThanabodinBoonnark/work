@@ -27,7 +27,7 @@
 ### ขนาดชาวต่างชาติ
 ### ยังชอบ@color[yellow](ประเทศไทย)เลย
 @size[0.6em](ไม่เชื่อก็มาดู**@color[orange](คลิป)**นี้กันเลยดีกว่าครับ)
-![](https://drive.google.com/file/d/1OiU2RAm64JHd9FBCY2K8w-sv_He0iur9/view)
+![](https://sv1.picz.in.th/images/2019/11/29/izC8mu.png)
 +++
 #### กดดูได้เลยครับ
 <iframe width="1044" height="587" src="https://www.youtube.com/embed/2RZU_Riw824" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

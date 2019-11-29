@@ -1,7 +1,5 @@
-﻿@title[Cover]
-
-@snap[north-west byline] Test
-# ประเทศไทยน่าอยู่อย่างไร
+﻿@snap[north-west byline] Test
+# @color[yellow](ประเทศไทย)น่าอยู่อย่างไร
 
 ---
 ## ประเทศไทยน่าอยู่จริงๆนะ

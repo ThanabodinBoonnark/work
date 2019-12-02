@@ -1,4 +1,7 @@
-﻿@snap[north-west byline]
+﻿![](https://digiart888.com/wp-content/uploads/2019/09/%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%95%E0%B8%B1%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%A3%E0%B8%B9%E0%B8%9B-%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%A0%E0%B8%B2%E0%B8%9E-%E0%B8%A3%E0%B8%B5%E0%B8%97%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%A0%E0%B8%B2%E0%B8%9E-1052x1200.jpg = 250x250)
+
+---
+@snap[north-west byline]
 
 # @color[yellow](ประเทศไทย)
    # น่าอยู่อย่างไร

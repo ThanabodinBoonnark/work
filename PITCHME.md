@@ -5,6 +5,6 @@
 @ol
 - @color[black](ไม่รู้จะเขียนไร)
 - @color[black](อะไรก็ไม่รู้)
-- asdfasa 
+- @color[black](นั้นสิ)
 @olend @snapend
-## @color[red](dasfgsdgsd)
+## @color[red](แบบภาพนี้นะครับ)

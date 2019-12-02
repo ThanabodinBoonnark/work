@@ -3,7 +3,8 @@
 <iframe width="240" height="150" src="https://www.youtube.com/embed/WfSqZVGCCyw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### เนื้อเรื่อง
-@size[06em](วันหนึ่งได้มีคู้ชาย,หญิงเดินเข้าไปในป่าเพื่อล่าแม่มดแต่แม่มดก็ไม่ได้โง่จนให้พวกนักล่าล่าได้ง่ายๆเลยทำการโจมตีพวกนักล่าจนเกียบชนะแต่พวกนักล่ามีสกิลพระเอกนางเองเลยสามารถเอาชนะแม่มดได้)
+
+ @size[0.6em]@color[ิblack](วันหนึ่งได้มี่คู่ชายหญิงเดินเข้าไปในป่าเพื่อล่าแม่มดแต่แม่มดก็ไม่ได้โง่จนให้พวกนักล่าล่าได้ง่ายๆเลยทำการโจมตีพวกนักล่าจนเกียบชนะแต่พวกนักล่ามีสกิลพระเอกนางเองเลยสามารถเอาชนะแม่มดได้)
 ```c#
 Console.WriteLine("Hello world");
 ```

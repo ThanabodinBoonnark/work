@@ -1,14 +1,19 @@
 # @color[yellow](BKK) 1st Time #
 ---
+## มากรุงเทพครั้งแรก
+
 ![n](https://sv1.picz.in.th/images/2019/12/03/itVhil.md.png)
+
 
 ---
 
 ## โดนด่าครั้งเเรก 
+
 ![n](https://sv1.picz.in.th/images/2019/12/03/itVlXf.md.png)
 
 +++
 ## you father died
+
 ![SAMBA Deployment](https://f.ptcdn.info/683/004/000/1367335060-1362392742-o.gif)
 
 ```c# 

@@ -7,19 +7,19 @@
 
 
 ---
+### โดนด่า@color[yellow](ครั้งเเรก)
 ![](https://sv1.picz.in.th/images/2019/12/03/itXDbV.png)
 ---
-### โดนด่า@color[yellow](ครั้งเเรก)
 
+### You Father Died
 ![n](https://sv1.picz.in.th/images/2019/12/03/itVlXf.md.png)
 
 +++
-### You Father Died
 
 ![SAMBA Deployment](https://f.ptcdn.info/683/004/000/1367335060-1362392742-o.gif)
 
 ```c# 
-Console.WriteLine("you father died");
+Console.WriteLine("What!!!!");
 ```
 
 +++

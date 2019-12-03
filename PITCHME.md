@@ -7,7 +7,7 @@
 
 
 ---
-i[](https://sv1.picz.in.th/images/2019/12/03/itXDbV.png)
+![](https://sv1.picz.in.th/images/2019/12/03/itXDbV.png)
 ---
 ### โดนด่า@color[yellow](ครั้งเเรก)
 

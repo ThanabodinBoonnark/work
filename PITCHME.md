@@ -1,5 +1,5 @@
-@snap[midpoint list-content-concise span-100] @size1.5em
-@color[yellow](Kimetsu) no Yaiba
+@snap[midpoint list-content-concise span-100]
+# @color[yellow](Kimetsu) no Yaiba
 @snapend
 ---
 ### @color[yellow](Kimetsu) no Yaiba ดาบพิฆาต@color[yellow](อสูร)

@@ -1,29 +1,22 @@
-# @color[yellow](BKK) 1st Time #
+# @color[yellow](Kimetsu) no Yaiba #
 ---
-### มากรุงเทพ@color[yellow](ครั้งแรก)
+### @color[yellow](Kimetsu) no Yaibaดาบพิฆาต@color[yellow](อสูร)
 
-![n](https://sv1.picz.in.th/images/2019/12/03/itVhil.md.png)
-
-
+![n](https://sv1.picz.in.th/images/2019/12/04/i1Rm5P.png)
 
 ---
-### โดนด่า@color[yellow](ครั้งเเรก)
-![](https://sv1.picz.in.th/images/2019/12/03/itXDbV.png)
----
+### เป็นอนิเมะที่ได้รับความนิยมมากในตอนนี้ทำยอดขายมังงะแซง One Piece 
 
-### You Father Died
-![n](https://sv1.picz.in.th/images/2019/12/03/itVlXf.md.png)
+![](https://66.media.tumblr.com/efbcca72313bbfc42092c027d69e8a7a/tumblr_pv069prwbt1usc9y9o10_500.gifv)
 
+@size[0.6em](**Kimetsu no Yaiba** ถือว่าเป็นสุดยอดมังงะมาแรงในยุคนี้ หลังจากความสำเร็จที่มาจากยอดขายมังงะถล่มทลาย และอนิเมะที่ดัดแปลงออกมาได้ยอดเยี่ยมเกินความคาดหมาย ได้รับคำชมล้นหลามจนสามารถทำยอดขายมังงะแซงหน้า One Piece ได้สำเร็จ นับว่าเป็นครั้งแรกในรอบ 11 ปีเลยทีเดียวที่ One Piece ถูกโค่นจากตำแหน่งแชมป์)
 +++
 
-![SAMBA Deployment](https://f.ptcdn.info/683/004/000/1367335060-1362392742-o.gif)
+<iframe width="720" height="560" src="https://www.youtube.com/embed/N5LUkp7j2gQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ```c# 
 Console.WriteLine("What!!!!");
 ```
-
-+++
-<iframe width="853" height="480" src="https://www.youtube.com/embed/ve0WYVb-4po" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 ---?image=https://png.pngtree.com/thumb_back/fw800/back_our/20190628/ourmid/pngtree-gray-geometric-background-material-image_274669.jpg
 <iframe width="360" height="240" src="https://www.youtube.com/embed/WfSqZVGCCyw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

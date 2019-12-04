@@ -13,7 +13,7 @@
 @size[0.6em](**@color[yellow](Kimetsu no Yaiba)** ถือว่าเป็นสุดยอดมังงะมาแรงในยุคนี้ หลังจากความสำเร็จที่มาจากยอดขายมังงะถล่มทลาย และอนิเมะที่ดัดแปลงออกมาได้ยอดเยี่ยมเกินความคาดหมาย ได้รับคำชมล้นหลามจนสามารถทำยอดขายมังงะแซงหน้า One Piece ได้สำเร็จ นับว่าเป็นครั้งแรกในรอบ 11 ปีเลยทีเดียวที่ One Piece ถูกโค่นจากตำแหน่งแชมป์)
 +++
 
-<iframe width="1044" height="587" src="https://www.youtube.com/embed/N5LUkp7j2gQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1080" height="480" src="https://www.youtube.com/embed/_yDb1N16Sq8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ```c# 
 Console.WriteLine("Kimetsu no Yaiba");

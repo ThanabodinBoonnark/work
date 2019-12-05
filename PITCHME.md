@@ -1,26 +1,54 @@
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
 
-~~The world is flat.~~
+ ## ตาราง
+ ~~The world is flat~~
 
-term
-: definition
+*ตาราง*
+
+ ``@size[1.5em](ตาราง)``
+
+| Syntax | Description | Dddddddd |
+| ----------- | ----------- | ----------- |
+| Header | Title | Test |
+| Paragraph | Text | ooooo |
 ---
-### My Great Heading {#custom-id}
+>> + test
 
-Here's a sentence with a footnote. [^1]
+    กฟหกด
+1.ดดด
 
-[^1]: This is the footnote.
+1.ดดด
 
-Here's a sentence with a footnote. [^1]
+1.ดดด
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
 ---
-`code` 
+
+- First item
++ Second item
+- Third item
+    * Indented item
+    * Indented item
+* Fourth item
+---
+> - Revenue was off the chart.
+
+This text is ***really important***.
+
+Italicized text is the **cat's meow**.
+
+the end *lekpolll*
+
+Heading level 1
+=
+
+Heading level 2
+-
+
+# H1
+## H2
+### H3
+
+---
+
 ```
 {
   "firstName": "John",
@@ -28,64 +56,14 @@ Here's a sentence with a footnote. [^1]
   "age": 25
 }
 ```
-- First item
-- Second item
-- Third item
 
-1. First item
-2. Second item
-3. Third item
-
+[Anime](https://www.anime-sugoi.com/play/152266/9.html)
+----
+![Photo](https://hackernoon.com/hn-images/1*9wzIVP0r5K-I4pq58LyVxw.gif)
 ---
 
-> blockquote
+-[x] Write the press release
 
-*italicized text*
+-[ ] Update the website
 
-**bold text**
-
-# H1
-## H2
-### H3
-
-+ First item
-* Second item
-- Third item
-+ Fourth item
------------------------------------------------
-- First item
-- Second item
-- Third item
-    - Indented item
-    - Indented item
-- Fourth item
-
-_single underscores_
-
-__double underscores__
----
-``There is a literal backtick (`) here.``
-
-`&#8212;` is the decimal-encoded equivalent of `&mdash;`.
-
-\   backslash
-
-`   backtick
-
-*   asterisk
-
-_   underscore
-
-{}  curly braces
-
-[]  square brackets
-
-()  parentheses
-
-+   plus sign
-
--   minus sign (hyphen)
-
-.   dot
-
-!   exclamation mark
+-[ ] Contact the media

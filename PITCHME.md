@@ -1,69 +1,30 @@
+[Google][1]
 
- ## ตาราง
- ~~The world is flat~~
+[Facebook][2]
 
-*ตาราง*
+[GitHub][3]
 
- ``ตาราง``
-
-| Syntax | Description | Dddddddd |
-| ----------- | ----------- | ----------- |
-| Header | Title | Test |
-| Paragraph | Text | ooooo |
+[1]: https://www.google.co.th/
+[2]: https://www.facebook.com/
+[3]: https://www.github.com/
 ---
->> + test
+---?color=linear-gradient(90deg, white 50%, black 50%)
 
-    กฟหกด
--1.ดดด
+@snap[west span-40 text-center]
 
--1.ดดด
+### GraphQL
+@fa[quote-left quote-graphql](A query language for your API)
+![GRAPHQL](https://sv1.picz.in.th/images/2019/12/06/igcWBQ.png)
+@snapend
 
--1.ดดด
+@snap[north-east span-40 text-08]
+@box[bg-green](Step 1. Schema # Define types using SDL)
+@snapend
 
----
+@snap[east span-40 text-08]
+@box[bg-blue](Step 2. Query # Fetch data with Queries)
+@snapend
 
-- First item
-+ Second item
-- Third item
-    * Indented item
-    * Indented item
-* Fourth item
----
-> - Revenue was off the chart.
-
-This text is ***really important***.
-
-Italicized text is the **cat's meow**.
-
-the end *lekpolll*
-
-Heading level 1
-=
-
-Heading level 2
--
-
-# H1
-## H2
-### H3
-
----
-
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-
-[Anime](https://www.anime-sugoi.com/play/152266/9.html)
-----
-![Photo](https://hackernoon.com/hn-images/1*9wzIVP0r5K-I4pq58LyVxw.gif)
----
-
--[x] Write the press release
-
--[ ] Update the website
-
--[ ] Contact the media
+@snap[south-east span-40 text-08]
+@box[bg-gold](Step 3. Mutate # Modify data with Mutations)
+@snapend

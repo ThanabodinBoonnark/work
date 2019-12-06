@@ -36,7 +36,7 @@
 @fa[quote-left quote-graphql](@color[black](A query language for your API))
 @snapend
 
-@snap[south span-80]
+@snap[minpoint-south span-120]
 ```c#
  var values = item.Split(',');
         var product = new Product

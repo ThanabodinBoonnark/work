@@ -34,7 +34,7 @@
 ---?color=linear-gradient(90deg, white 50%, black 50%)
 
 @snap[north-west span-50]
-### @color[orange](รูปแบบอักษรประกอบไปด้วย)
+### @color[black](**รูปแบบอักษรประกอบไปด้วย**)
 @snapend
 
 @snap[west span-50]
@@ -61,12 +61,12 @@
 ---?color=linear-gradient(90deg, white 50%, black 50%)
 
 @snap[north-west span-50]
-@color[black](ลิสต์แบบเรียงลำดับ Ordered List)
+### @color[black](**ลิสต์แบบเรียงลำดับ Ordered List**)
 @snapend
 
 @snap[west span-50]
 
-#### @color[orange](Syntax)
+#### @color[black](**Syntax**)
 
 @color[black](1. สวัสดี)
 @color[black](2. ฉัน)
@@ -82,15 +82,15 @@
 ---?color=linear-gradient(90deg, white 50%, black 50%)
 
 @snap[north-west span-50]
-@color[black](ลิสต์แบบไม่เรียงลำดับ Unordered List)
+### @color[black](**ลิสต์แบบไม่เรียงลำดับ Unordered List**)
 @snapend
 
 @snap[west- span-50]
 
-#### @color[orange](Syntax)
+#### @color[black](**Syntax**)
 
 @color[black](- สวัสดี)
-
+#### 
 @color[black](* สวัสดี)
 
 

@@ -27,3 +27,15 @@
 @snap[south-east span-40 text-08]
 @box[bg-gold](Step 3. Mutate # Modify data with Mutations)
 @snapend
+
+---?color=linear-gradient(180deg, white 50%, #E71E60 50%)
+
+@snap[north span-40 h3-black]
+
+### GraphQL
+@fa[quote-left quote-graphql](@color[black](A query language for your API))
+@snapend
+
+@snap[south span-85]
+@code[js zoom-13 code-max code-shadow](C:\Users\User\Desktop\github\work3.cs)
+@snapend

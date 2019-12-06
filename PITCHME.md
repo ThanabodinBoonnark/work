@@ -6,8 +6,8 @@
 ## @color[orange](Markdown)
 @snapend
 
-@color[orange](Mark down คือ ภาษาคอมพิวเตอร์ ที่มนุษย์สามารถอ่านเข้าใจได้ง่าย)
-@color[orange](และด้วยความง่ายนี้มันก็สามารถแปลงกลับมาเป็นภาษาอื่นๆได้ง่ายด้วยกันเช่น HTML, XHTML และด้วยความง่ายเช่นนี้จึงมีเจ้าอื่นนำไป Customize)@color[orange](ให้เป็นของตัวเองเช่น github ก็อาจจะเพิ่มพวก feature เข้าไปเช่น task list, mention และอื่นๆ)
+@color[black](Mark down คือ ภาษาคอมพิวเตอร์ ที่มนุษย์สามารถอ่านเข้าใจได้ง่าย)
+@color[black](และด้วยความง่ายนี้มันก็สามารถแปลงกลับมาเป็นภาษาอื่นๆได้ง่ายด้วยกันเช่น HTML, XHTML และด้วยความง่ายเช่นนี้จึงมีเจ้าอื่นนำไป Customize)@color[black](ให้เป็นของตัวเองเช่น github ก็อาจจะเพิ่มพวก feature เข้าไปเช่น task list, mention และอื่นๆ)
 
 ---?color=linear-gradient(to top left, #bdc3c7, #2c3e50)
 
@@ -58,10 +58,11 @@
 @box[bg-gold](~~สวัสดี~~)
 @snapend
 
----?color=linear-gradient(90deg, white 50%, black 50%)
+---?color=linear-gradient(80deg, white 50%, black 50%)
 
 @snap[north-west span-50]
-### @color[black](**ลิสต์แบบเรียงลำดับ Ordered List**)
+### @color[black](**ลิสต์แบบเรียงลำดับ**)
+### @color[black](**Ordered List**)
 @snapend
 
 @snap[west span-50]
@@ -69,8 +70,11 @@
 #### @color[black](**Syntax**)
 
 @color[black](1. สวัสดี)
+#### 
 @color[black](2. ฉัน)
+#### 
 @color[black](3. ชื่อ)
+#### 
 @color[black](4. อะไร)
    @snapend
 

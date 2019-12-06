@@ -38,15 +38,20 @@
 
 @snap[minpoint-south span-120]
 ```c#
- var values = item.Split(',');
-        var product = new Product
+ while (While < 1)
         {
-            SKU = values[0],
-            Name = values[1],
-             Price = Double.Parse(values[2])
-        }; Console.WriteLine(values[0] + "  " + values[1] + ": " + values[2]);
-        products.Add(product);
+            Console.WriteLine("\nPlease input a product key");
+            var input = System.Console.ReadLine();
+            var PD = products.FirstOrDefault(it => it.SKU == input);
+            price.Add(PD.Price);
+            var sumprice = price.Sum();
+            foreach (var item in PD.Name)
+            {
+                sumname += item;
+            }   sumname += ": "+PD.Price+"\n";       
+            Console.WriteLine($"\nProducts in your cart are \n{sumname}\nTotal amount: {sumprice} baht");
         }
-        Console.WriteLine("\n---------------------------");
+    }
+}
 ```
 @snapend

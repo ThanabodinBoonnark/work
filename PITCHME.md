@@ -31,7 +31,7 @@
 ###### @color[black](หัวเรื่อง 6)
 @snapend
 
----?color=linear-gradient(100deg, white 50%, #1F6ED4 50%)
+---?color=linear-gradient(90deg, white 50%, #1F6ED4 50%)
 
 @snap[west span-50]
 
@@ -48,12 +48,11 @@
 
 @snap[east span-50]
 
+- _สวัสดี_
 
-_สวัสดี_
+- **สวัสดี**
 
-**สวัสดี**
-
-~~สวัสดี~~
+- ~~สวัสดี~~
 
 @snapend
 

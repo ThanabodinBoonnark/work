@@ -7,13 +7,12 @@
 [1]: https://www.google.co.th/
 [2]: https://www.facebook.com/
 [3]: https://www.github.com/
----
 ---?color=linear-gradient(90deg, white 50%, black 50%)
 
 @snap[west span-40 text-center]
 
-### GraphQL
-@fa[quote-left quote-graphql](A query language for your API)
+### @color[black](GraphQL)
+@fa[@color[black](quote-left quote-graphql](A query language for your API))
 ![GRAPHQL](https://sv1.picz.in.th/images/2019/12/06/igcWBQ.png)
 @snapend
 

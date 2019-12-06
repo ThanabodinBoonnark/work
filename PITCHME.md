@@ -38,20 +38,22 @@
 
 @snap[south span-120]
 ````c#
+
  while (While < 1)
+    {
+        Console.WriteLine("\nPlease input a product key");
+        var input = System.Console.ReadLine();
+        var PD = products.FirstOrDefault(it => it.SKU == input);
+        price.Add(PD.Price);
+        var sumprice = price.Sum();
+        foreach (var item in PD.Name)
         {
-            Console.WriteLine("\nPlease input a product key");
-            var input = System.Console.ReadLine();
-            var PD = products.FirstOrDefault(it => it.SKU == input);
-            price.Add(PD.Price);
-            var sumprice = price.Sum();
-            foreach (var item in PD.Name)
-            {
-                sumname += item;
-            }   sumname += ": "+PD.Price+"\n";       
-            Console.WriteLine($"\nProducts in your cart are \n{sumname}
-            \nTotal amount: {sumprice} baht");
+            sumname += item;
+        }   sumname += ": "+PD.Price+"\n";       
+        Console.WriteLine($"\nProducts in your cart are \n{sumname}
+        \nTotal amount: {sumprice} baht");
         }
     }
+
 ````
 @snapend

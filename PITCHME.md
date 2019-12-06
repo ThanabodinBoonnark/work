@@ -31,7 +31,7 @@
 ###### @color[black](หัวเรื่อง 6)
 @snapend
 
----?color=linear-gradient(90deg, #003366 50%, #E8E8E8 50%)
+---?color=linear-gradient(90deg, white 50%, black 50%)
 
 @snap[north-west span-50]
 ### @color[orange](รูปแบบอักษรประกอบไปด้วย)
@@ -58,20 +58,20 @@
 @box[bg-gold](~~สวัสดี~~)
 @snapend
 
----?color=linear-gradient(90deg, #003366 50%, #E8E8E8 50%)
+---?color=linear-gradient(90deg, white 50%, black 50%)
 
 @snap[north-west span-50]
-@color[orange](ลิสต์แบบเรียงลำดับ Ordered List)
+@color[black](ลิสต์แบบเรียงลำดับ Ordered List)
 @snapend
 
 @snap[west span-50]
 
 #### @color[orange](Syntax)
 
-@color[orange](1. สวัสดี)
-@color[orange](2. ฉัน)
-@color[orange](3. ชื่อ)
-@color[orange](4. อะไร)
+@color[black](1. สวัสดี)
+@color[black](2. ฉัน)
+@color[black](3. ชื่อ)
+@color[black](4. อะไร)
    @snapend
 
 @snap[east span-50]
@@ -79,22 +79,20 @@
 ![](https://sv1.picz.in.th/images/2019/12/05/iZFSgv.jpg)
 @snapend
 
----?color=linear-gradient(90deg, #003366 50%, #E8E8E8 50%)
+---?color=linear-gradient(90deg, white 50%, black 50%)
 
 @snap[north-west span-50]
-@color[orange](ลิสต์แบบไม่เรียงลำดับ Unordered List)
+@color[black](ลิสต์แบบไม่เรียงลำดับ Unordered List)
 @snapend
 
 @snap[west- span-50]
 
 #### @color[orange](Syntax)
 
-@color[orange](- สวัสดี)
-@color[orange](- สวัสดี)
-@color[orange](- สวัสดี)
-@color[orange](* สวัสดี)
-@color[orange](* สวัสดี)
-@color[orange](* สวัสดี)
+@color[black](- สวัสดี)
+
+@color[black](* สวัสดี)
+
 
 @snapend
 
@@ -104,13 +102,13 @@
 
 ---?color=linear-gradient(180deg, #2c3e50 52%, white 52%)
 
-## @color[orange](ใส่รูปภาพใน Markdown)
+## @color[black](ใส่รูปภาพใน Markdown)
 
-**@color[orange](โค้ต)**
+**@color[black](โค้ต)**
 
     ![Google ](https://sv1.picz.in.th/images/2019/12/05/iZyaHz.jpg)
 
-**@color[orange](เเสดงผล)**
+**@color[black](เเสดงผล)**
 
 ## ![Google ](https://www.google.co.th/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
 

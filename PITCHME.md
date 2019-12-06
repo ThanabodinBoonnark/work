@@ -1,7 +1,7 @@
 ---?color=linear-gradient(to top left, #bdc3c7, #2c3e50)
 # @color[orange](Markdown)
 
----?color=linear-gradient(180deg, #003366 33.33%, #bdc3c7 33.33%)
+---?color=linear-gradient(180deg, #003366 20%, #white 20%)
 @snap[north]
 ## @color[orange](Markdown)
 @snapend
@@ -31,15 +31,14 @@
 ###### @color[black](หัวเรื่อง 6)
 @snapend
 
----
+---?color=linear-gradient(80deg, white 50%, #1F6ED4 50%)
 
 @snap[west span-50]
 
-#### รูปแบบอักษรประกอบไปด้วย
+## @color[orange](รูปแบบอักษรประกอบไปด้วย)
 
-```
-        หัวเรื่องแรก  หัวเรื่องที่สอง 
-        --------  -----------  
+
+``` 
          ตัวเอียง     _ตัวเอียง_     
          ตัวหน้า     **ตัวหน้า**    
          ขีดฆ่า      ~~ขีดฆ่า~~
@@ -48,10 +47,13 @@
 
 @snap[east span-50]
 
-แสดงผล
+
 _สวัสดี_
+
 **สวัสดี**
+
 ~~สวัสดี~~
+
 @snapend
 
 ---

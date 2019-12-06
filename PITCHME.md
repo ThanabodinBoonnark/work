@@ -40,17 +40,17 @@
 @snap[west span-50]
 ``` 
         ตัวเอียง     _ตัวเอียง_     
-        ตัวหน้า     **ตัวหน้า**    
+        ตัวหนา     **ตัวหนา**    
         ขีดฆ่า       ~~ขีดฆ่า~~
 
 ```
 @snapend   
 
-@snap[north-east span-30 text-08]
+@snap[east span-30 text-08]
 @box[bg-green](**สวัสดี**)
 @snapend
 
-@snap[east span-30 text-08]
+@snap[north-east span-30 text-08]
 @box[bg-pink](_สวัสดี_)
 @snapend
 

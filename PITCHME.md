@@ -7,7 +7,7 @@
 [1]: https://www.google.co.th/
 [2]: https://www.facebook.com/
 [3]: https://www.github.com/
----?color=linear-gradient(90deg, white 50%, black 50%)
+---?color=linear-gradient(100deg, white 50%, black 50%)
 
 @snap[west span-40 text-center]
 
@@ -28,7 +28,7 @@
 @box[bg-gold](Step 3. Mutate # Modify data with Mutations)
 @snapend
 
----?color=linear-gradient(180deg, white 60%, #E71E60 50%)
+---?color=linear-gradient(180deg, white 60%, #E71E60 40%)
 
 @snap[north span-40 h3-black]
 

@@ -46,16 +46,16 @@
 ```
 @snapend   
 
-@snap[east span-50]
- **สวัสดี**
+@snap[north-east span-40 text-08]
+@box[bg-green](**สวัสดี**)
 @snapend
 
-@snap[north-east span-50]
- _สวัสดี_
+@snap[east span-40 text-08]
+@box[bg-blue](_สวัสดี_)
 @snapend
 
-@snap[south-east span-50]
- ~~สวัสดี~~
+@snap[south-east span-40 text-08]
+@box[bg-gold](~~สวัสดี~~)
 @snapend
 
 ---

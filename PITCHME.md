@@ -31,7 +31,7 @@
 ###### @color[black](หัวเรื่อง 6)
 @snapend
 
----?color=linear-gradient(90deg, #bdc3c7 50%, #000066 50%)
+---?color=linear-gradient(90deg, #003366 50%, #E8E8E8 50%)
 
 @snap[north-west span-50]
 ### @color[orange](รูปแบบอักษรประกอบไปด้วย)
@@ -58,7 +58,7 @@
 @box[bg-gold](~~สวัสดี~~)
 @snapend
 
----?color=linear-gradient(90deg, #bdc3c7 50%, #000066 50%)
+---?color=linear-gradient(90deg, #003366 50%, #E8E8E8 50%)
 
 @snap[north-west span-50]
 @color[orange](ลิสต์แบบเรียงลำดับ Ordered List)
@@ -79,7 +79,7 @@
 ![](https://sv1.picz.in.th/images/2019/12/05/iZFSgv.jpg)
 @snapend
 
----?color=linear-gradient(90deg, #bdc3c7 50%, #000066 50%)
+---?color=linear-gradient(90deg, #003366 50%, #E8E8E8 50%)
 
 @snap[north-west span-50]
 @color[orange](ลิสต์แบบไม่เรียงลำดับ Unordered List)
@@ -87,7 +87,7 @@
 
 @snap[west- span-50]
 
-#### @color[orange]Syntax)
+#### @color[orange](Syntax)
 
 @color[orange](- สวัสดี)
 @color[orange](- สวัสดี)

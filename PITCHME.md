@@ -32,7 +32,7 @@
 
 @snap[north span-40 h3-black]
 
-## GraphQL
+## @color[black](GraphQL)
 
 @fa[quote-left quote-graphql](@color[black](A query language for your API))
 @snapend

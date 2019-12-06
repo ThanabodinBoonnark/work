@@ -58,10 +58,10 @@
 @box[bg-gold](~~สวัสดี~~)
 @snapend
 
----?color=linear-gradient(90deg,, #bdc3c7, #2c3e50)
+---?color=linear-gradient(90deg, #bdc3c7 50%, #2c3e50 50%)
 
 @snap[north-west span-50]
-@color[orange](ลิสต์แบบเรียงลำดับ (Ordered List))
+@color[orange](ลิสต์แบบเรียงลำดับ Ordered List)
 @snapend
 
 @snap[west span-50]
@@ -79,10 +79,10 @@
 ![](https://sv1.picz.in.th/images/2019/12/05/iZFSgv.jpg)
 @snapend
 
----?color=linear-gradient(90deg, #bdc3c7, #2c3e50)
+---?color=linear-gradient(90deg, #bdc3c7 50%, #2c3e50 50%)
 
 @snap[north-west span-50]
-@color[orange](ลิสต์แบบไม่เรียงลำดับ (Unordered List))
+@color[orange](ลิสต์แบบไม่เรียงลำดับ Unordered List)
 @snapend
 
 @snap[west- span-50]
@@ -107,7 +107,7 @@
 ![](https://sv1.picz.in.th/images/2019/12/05/iZFYCE.jpg)
 @snapend
 
----?color=linear-gradient(180deg, #2c3e50 55.55%, #bdc3c7 55.55%)
+---?color=linear-gradient(180deg, #2c3e50 50%, white 50%)
 
 ## @color[orange](ใส่รูปภาพใน Markdown)
 

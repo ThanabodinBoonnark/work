@@ -36,7 +36,7 @@
 @fa[quote-left quote-graphql](@color[black](A query language for your API))
 @snapend
 
-@snap[south span-60]
+@snap[minpoint span-120]
 ```c#
 var product = new Product
         {

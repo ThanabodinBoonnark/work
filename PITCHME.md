@@ -37,21 +37,19 @@
 ### @color[orange](รูปแบบอักษรประกอบไปด้วย)
 @snapend
 
-@snap[west span-50]
 ``` 
         ตัวเอียง     _ตัวเอียง_     
         ตัวหน้า     **ตัวหน้า**    
         ขีดฆ่า       ~~ขีดฆ่า~~
 
-```
-@snapend   
+``` 
 
 @snap[north-east span-30 text-08]
 @box[bg-green](**สวัสดี**)
 @snapend
 
 @snap[east span-30 text-08]
-@box[bg-red](_สวัสดี_)
+@box[bg-pink](_สวัสดี_)
 @snapend
 
 @snap[south-east span-30 text-08]

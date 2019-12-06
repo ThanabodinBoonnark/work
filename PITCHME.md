@@ -36,8 +36,8 @@
 @fa[quote-left quote-graphql](@color[black](A query language for your API))
 @snapend
 
-@snap[south span-220]
-```c#
+@snap[south span-120]
+````c#
  while (While < 1)
         {
             Console.WriteLine("\nPlease input a product key");
@@ -54,5 +54,5 @@
             \nTotal amount: {sumprice} baht");
         }
     }
-```
+````
 @snapend

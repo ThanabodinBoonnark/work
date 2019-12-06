@@ -31,13 +31,13 @@
 ###### @color[black](หัวเรื่อง 6)
 @snapend
 
----?color=linear-gradient(90deg, white 50%, #1F6ED4 50%)
+---?color=linear-gradient(90deg, white 50%, black 50%)
+
+@snap[north-west span-50]
+### @color[orange](รูปแบบอักษรประกอบไปด้วย)
+@snapend
 
 @snap[west span-50]
-
-### @color[orange](รูปแบบอักษรประกอบไปด้วย)
-
-
 ``` 
         ตัวเอียง     _ตัวเอียง_     
         ตัวหน้า     **ตัวหน้า**    
@@ -51,7 +51,7 @@
 @snapend
 
 @snap[east span-40 text-08]
-@box[bg-blue](_สวัสดี_)
+@box[bg-red](_สวัสดี_)
 @snapend
 
 @snap[south-east span-40 text-08]

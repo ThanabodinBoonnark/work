@@ -1,6 +1,4 @@
----?color=linear-gradient(to bottom, #2193b0, #6dd5ed)
-
-# @fa[laptop-code fa-3x text-white]
+---?color=linear-gradient(to top left, #bdc3c7, #2c3e50)
 
 [Google][1]
 

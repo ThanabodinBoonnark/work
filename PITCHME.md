@@ -1,3 +1,7 @@
+---?color=linear-gradient(to bottom, #2193b0, #6dd5ed)
+
+# @fa[laptop-code fa-3x text-white]
+
 [Google][1]
 
 [Facebook][2]

@@ -62,7 +62,6 @@
 
 @snap[north-west span-50]
 ### @color[black](**ลิสต์แบบเรียงลำดับ**)
-### @color[black](**Ordered List**)
 @snapend
 
 @snap[west span-50]
@@ -86,7 +85,7 @@
 ---?color=linear-gradient(90deg, white 50%, black 50%)
 
 @snap[north-west span-50]
-### @color[black](**ลิสต์แบบไม่เรียงลำดับ Unordered List**)
+### @color[black](**ลิสต์แบบไม่เรียงลำดับ**)
 @snapend
 
 @snap[west- span-50]
@@ -106,13 +105,13 @@
 
 ---?color=linear-gradient(180deg, #2c3e50 52%, white 52%)
 
-## @color[black](ใส่รูปภาพใน Markdown)
+## @color[orange](ใส่รูปภาพใน Markdown)
 
-**@color[black](โค้ต)**
+**@color[orange](โค้ต)**
 
     ![Google ](https://sv1.picz.in.th/images/2019/12/05/iZyaHz.jpg)
 
-**@color[black](เเสดงผล)**
+**@color[orange](เเสดงผล)**
 
 ## ![Google ](https://www.google.co.th/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
 

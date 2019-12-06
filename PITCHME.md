@@ -9,13 +9,13 @@
 [1]: https://www.google.co.th/
 [2]: https://www.facebook.com/
 [3]: https://www.github.com/
----?color=linear-gradient(100deg, white 50%, black 50%)
+---?color=linear-gradient(100deg, 003366 50%, black 50%)
 
 @snap[west span-40 text-center]
 
 #### @color[black](GraphQL)
 @color[black](@fa[quote-left quote-graphql](A query language for your API))
-![GRAPHQL](https://sv1.picz.in.th/images/2019/12/06/igcWBQ.png)
+![GRAPHQL](https://sv1.picz.in.th/images/2019/12/05/iZyylI.jpg)
 @snapend
 
 @snap[north-east span-40 text-08]

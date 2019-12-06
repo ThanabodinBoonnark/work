@@ -15,7 +15,7 @@
 
 #### @color[black](GraphQL)
 @color[white](@fa[quote-left quote-graphql](A query language for your API))
-![GRAPHQL](https://sv1.picz.in.th/images/2019/12/06/igcWBQ.png)
+![GRAPHQL](https://sv1.picz.in.th/images/2019/12/05/iZyylI.jpg)
 @snapend
 
 @snap[north-east span-40 text-08]

@@ -36,13 +36,13 @@
 @fa[quote-left quote-graphql](@color[black](A query language for your API))
 @snapend
 
-@snap[south span-85]
+@snap[south span-60]
 ```c#
 var product = new Product
-            {
-                SKU = values[0],
-                Name = values[1],
-                Price = Double.Parse(values[2])
-            }; Console.WriteLine(values[0] + "  " + values[1] + ": " + values[2]);
+        {
+            SKU = values[0],
+            Name = values[1],
+            Price = Double.Parse(values[2])
+        }; Console.WriteLine(values[0] + "  " + values[1] + ": " + values[2]);
 ```
 @snapend

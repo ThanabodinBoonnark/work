@@ -34,7 +34,7 @@
 
 ## @color[black](GraphQL)
 
-@fa[quote-left quote-graphql](@color[black](A query language for your API))
+@fa[@color[black](quote-left quote-graphql)](@color[black](A query language for your API))
 @snapend
 
 @snap[south span-90]

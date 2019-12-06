@@ -1,7 +1,7 @@
 ---?color=linear-gradient(to top left, #bdc3c7, #2c3e50)
 # @color[orange](Markdown)
 
----?color=linear-gradient(180deg, #003366 20%, #white 20%)
+---?color=linear-gradient(180deg, #003366 25%, black 25%)
 ## Markdown
 
 @color[black](Mark down คือ
@@ -11,30 +11,9 @@
 เช่น github ก็อาจจะเพิ่มพวก feature
 เข้าไปเช่น task list, mention และอื่น ๆ)
 
----?color=linear-gradient(80deg, #003366 50%, #E8E8E8 50%)
+---?color=linear-gradient(to top left, #bdc3c7, #2c3e50)
 
-@snap[north-west]
-### HTML vs Markdown
-@snapend
-
-@snap[west span-50]
-@size[0.75em](
-    <h1> Hello </h1>        # Hello
-    <h2> Hi </h2>           ## Hi
-    <ul>
-    <li>Apple</li>          * Apple
-    <li>Banana</li>         * Banana
-    <li>Orange</li>         * Orange
-    </ul>)
-@snapend
-
-@snap[east span-50]
-![](https://miro.medium.com/max/1150/1*L-PYnMRbnKpIFYVdgbQUJQ.png)
-@snapend
-
----
-
-## เริ่มเขียนMarkdown
+# เริ่มเขียนMarkdown
 
 ---?color=linear-gradient(100deg, #003366 50%, #E8E8E8 50%)
 

@@ -46,12 +46,16 @@
 ```
 @snapend   
 
-@snap[east]
-* _สวัสดี_
+@snap[east span-50]
+ **สวัสดี**
+@snapend
 
-* **สวัสดี**
+@snap[north-east span-50]
+ _สวัสดี_
+@snapend
 
-* ~~สวัสดี~~
+@snap[south-east span-50]
+ ~~สวัสดี~~
 @snapend
 
 ---

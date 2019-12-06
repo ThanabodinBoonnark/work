@@ -1,8 +1,7 @@
 ---?color=linear-gradient(to top left, #bdc3c7, #2c3e50)
 # @color[orange](Markdown)
 
----?color=linear-gradient(180deg, E71E60 15%, #white 75%)
-
+---?color=linear-gradient(180deg, #003366 20%, #white 20%)
 ## Markdown
 
 @color[black](Mark down คือ
@@ -15,18 +14,18 @@
 ---?color=linear-gradient(80deg, #003366 50%, #E8E8E8 50%)
 
 @snap[north-west]
-## HTML vs Markdown
+### HTML vs Markdown
 @snapend
 
 @snap[west span-50]
-
-    <h1> Hello </h1>                     # Hello
-    <h2> Hi </h2>                        ## Hi
+@size[0.75em](
+    <h1> Hello </h1>        # Hello
+    <h2> Hi </h2>           ## Hi
     <ul>
-    <li>Apple</li>                      * Apple
-    <li>Banana</li>                     * Banana
-    <li>Orange</li>                     * Orange
-    </ul>
+    <li>Apple</li>          * Apple
+    <li>Banana</li>         * Banana
+    <li>Orange</li>         * Orange
+    </ul>)
 @snapend
 
 @snap[east span-50]

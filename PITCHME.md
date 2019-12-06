@@ -37,5 +37,12 @@
 @snapend
 
 @snap[south span-85]
-@code[js zoom-13 code-max code-shadow](C:\Users\User\Desktop\github\work3.cs)
+```c#
+var product = new Product
+            {
+                SKU = values[0],
+                Name = values[1],
+                Price = Double.Parse(values[2])
+            }; Console.WriteLine(values[0] + "  " + values[1] + ": " + values[2]);
+```
 @snapend

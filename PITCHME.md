@@ -1,7 +1,7 @@
 ---?color=linear-gradient(to top left, #bdc3c7, #2c3e50)
 # @color[orange](Markdown)
 
----?color=linear-gradient(180deg, #003366 33.33%, #white 33.33%)
+---?color=linear-gradient(180deg, #003366 33.33%, white 33.33%)
 @snap[north]
 ## @color[orange](Markdown)
 @snapend

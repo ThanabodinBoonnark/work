@@ -58,6 +58,18 @@
 @box[bg-gold](~~สวัสดี~~)
 @snapend
 
+---?color=linear-gradient(to top left, #bdc3c7, #2c3e50)
+
+@snap[north-west span-50]
+
+**ลิสต์(list)**
+มีทังหมด3แบบประกอบด้วย
+
+1.ลิสต์แบบเรียงลำดับ (Ordered List)
+
+2.ลิสต์แบบไม่เรียงลำดับ (Unordered List)
+
+@snapend
 ---?color=linear-gradient(80deg, white 50%, black 50%)
 
 @snap[north-west span-50]

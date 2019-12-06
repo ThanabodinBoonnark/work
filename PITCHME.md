@@ -4,12 +4,12 @@
 ---?color=linear-gradient(180deg, #003366 33.33%, white 33.33%)
 ## Markdown
 
-@color[black]Mark down คือ ภาษาคอมพิวเตอร์ ที่มนุษย์สามารถอ่านเข้าใจได้ง่าย
+@color[black](Mark down คือ ภาษาคอมพิวเตอร์ ที่มนุษย์สามารถอ่านเข้าใจได้ง่าย
 และด้วยความง่ายนี้มันก็สามารถแปลงกลับมาเป็นภาษาอื่นๆได้ง่ายด้วยกันเช่น HTML, XHTML และด้วยความง่ายเช่นนี้จึงมีเจ้าอื่นนำไป Customize ให้เป็นของตัวเองเช่น github ก็อาจจะเพิ่มพวก feature เข้าไปเช่น task list, mention และอื่น ๆ)
 
 ---?color=linear-gradient(to top left, #bdc3c7, #2c3e50)
 
-### @color[orange](เริ่มเขียนMarkdown)
+## @color[orange](เริ่มเขียนMarkdown)
 
 ---?color=linear-gradient(100deg, #003366 50%, #E8E8E8 50%)
 

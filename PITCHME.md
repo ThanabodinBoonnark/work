@@ -50,7 +50,6 @@
                 sumname += item;
             }   sumname += ": "+PD.Price+"\n";       
             Console.WriteLine($"\nProducts in your cart are \n{sumname}
-
             \nTotal amount: {sumprice} baht");
         }
     }

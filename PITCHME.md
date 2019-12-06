@@ -28,7 +28,7 @@
 @box[bg-gold](Step 3. Mutate # Modify data with Mutations)
 @snapend
 
----?color=linear-gradient(180deg, white 60%, #E71E60 40%)
+---?color=linear-gradient(180deg, white 60%, #E71E60 50%)
 
 @snap[north span-40 h3-black]
 

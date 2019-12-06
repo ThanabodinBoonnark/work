@@ -13,21 +13,18 @@
 
 @snap[west span-40 text-center]
 
-## @color[white](GraphQL)
-@color[white](@fa[quote-left quote-graphql](A query language for your API))
-![GRAPHQL](https://sv1.picz.in.th/images/2019/12/05/iZyylI.jpg)
+## @color[white](หัวเรื่อง)
+@color[white](@fa[quote-left quote-graphql](การเขียนหัวเรื่องในขนาดต่างๆ))
+![GRAPHQL](https://sv1.picz.in.th/images/2019/12/06/igbSyS.png)
 @snapend
 
 @snap[north-east span-40 text-08]
-@box[bg-green](Step 1. Schema # Define types using SDL)
-@snapend
-
-@snap[east span-40 text-08]
-@box[bg-blue](Step 2. Query # Fetch data with Queries)
-@snapend
-
-@snap[south-east span-40 text-08]
-@box[bg-gold](Step 3. Mutate # Modify data with Mutations)
+# หัวเรื่อง 1
+## หัวเรื่อง 2
+### หัวเรื่อง 3
+#### หัวเรื่อง 4
+##### หัวเรื่อง 5
+###### หัวเรื่อง 6
 @snapend
 
 ---?color=linear-gradient(180deg, white 60%, #E71E60 40%)

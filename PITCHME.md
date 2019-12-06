@@ -31,17 +31,18 @@
 ###### @color[black](หัวเรื่อง 6)
 @snapend
 
----?color=linear-gradient(80deg, white 50%, #1F6ED4 50%)
+---?color=linear-gradient(100deg, white 50%, #1F6ED4 50%)
 
 @snap[west span-50]
 
-## @color[orange](รูปแบบอักษรประกอบไปด้วย)
+### @color[orange](รูปแบบอักษรประกอบไปด้วย)
 
 
 ``` 
-         ตัวเอียง     _ตัวเอียง_     
-         ตัวหน้า     **ตัวหน้า**    
-         ขีดฆ่า      ~~ขีดฆ่า~~
+        ตัวเอียง     _ตัวเอียง_     
+        ตัวหน้า     **ตัวหน้า**    
+        ขีดฆ่า       ~~ขีดฆ่า~~
+
 ```
 @snapend      
 

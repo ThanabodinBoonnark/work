@@ -1,7 +1,7 @@
 ---?color=linear-gradient(to top left, #bdc3c7, #2c3e50)
 # @color[orange](Markdown)
 
----?color=linear-gradient(180deg, #003366 20%, #white 20%)
+---?color=linear-gradient(180deg, #003366 30%, #white 30%)
 @snap[north]
 ## @color[orange](Markdown)
 @snapend
@@ -62,10 +62,11 @@
 
 @snap[north span-50]
 ลิสต์แบบเรียงลำดับ (Ordered List)
-![](https://sv1.picz.in.th/images/2019/12/05/iZFSgv.jpg)
 @snapend
 
-@snap[east span-50]
+@snap[west span-50]
+
+#### Syntax
 
 1. สวัสดี
 2. ฉัน
@@ -73,46 +74,58 @@
 4. อะไร
    @snapend
 
+@snap[east span-50]
+
+![](https://sv1.picz.in.th/images/2019/12/05/iZFSgv.jpg)
+@snapend
+
 ---
 
 @snap[north span-50]
 ลิสต์แบบไม่เรียงลำดับ (Unordered List)
 @snapend
+
+@snap[west- span-50]
+
+#### Syntax
+
+        - สวัสดี
+        - สวัสดี
+        - สวัสดี
+
+        * สวัสดี
+        * สวัสดี
+        * สวัสดี
+
+@snapend
+
+@snap[south-east span-50]
 ![](https://sv1.picz.in.th/images/2019/12/05/iZFYCE.jpg)
-@snap[east span-50]
-
-- สวัสดี
-- สวัสดี
-- สวัสดี
-
-* สวัสดี
-* สวัสดี
-* สวัสดี
-  @snapend
+@snapend
 
 ---
 
 @snap[north span-50]
-หรือ list ซ้อน list (Nested List)
+
+list ซ้อน list (Nested List)
 @snapend
-![](https://sv1.picz.in.th/images/2019/12/05/iZyXqq.jpg)
-@snap[east span-50]
+
+@snap[west span-50]
 
 1. สวัสดี
-   - ฉันชื่อ - อะไร 1. ไม่รู้ 2. สินะ
-     @snapend
+   - ฉันชื่อ
+   - อะไร
+1. ไม่รู้
+1. สินะ
+   @snapend
+
+@snap[east span-50]
+
+        ![] (https://sv1.picz.in.th/images/2019/12/05/iZyXqq.jpg)
+
+@snapend
 
 ---
-
-## การใส่ link ใน Markdown
-
-โค้ต
-
-    [](https://sv1.picz.in.th/images/2019/12/05/iZyv78.jpg)
-
-เเสดงผล
-
-## [Links](http://www.google.com)
 
 ## ใส่รูปภาพใน Markdown
 
@@ -124,17 +137,36 @@
 
 ## ![Google ](https://www.google.co.th/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
 
-@snap[north span-120]
+---
 
-## การใส่ตาราง (Tables)
+@snap[north span-50]
+
+#### การใส่ตาราง (Tables)
 
 @snapend
 
-@snap[east span-50]
+@snap[west span-40 text-center]
+
+#### Syntax
+
+####
+
+```
+    | หัวเรื่องแรก | หัวเรื่องที่สอง | หัวเรื่องสาม |
+    | :-------  | :-------: | --------: |
+    | ซ็าย       |  กึ่งกลาง   | ขวา       |
+    | ซ็าย       |  กึ่งกลาง   | ขวา       |
+```
+
+@snapend
+
+@snap[east span-60]
+
 | หัวเรื่องแรก | หัวเรื่องที่สอง | หัวเรื่องสาม |
-| :-------- | :--------: | ---------: |
-| ซ็าย | กึ่งกลาง | ขวา |
-| ซ็าย | กึ่งกลาง | ขวา |
+| :----------- | :-------------: | -----------: |
+| ซ็าย         |    กึ่งกลาง     |          ขวา |
+| ซ็าย         |    กึ่งกลาง     |          ขวา |
+
 @snapend
 
 ---

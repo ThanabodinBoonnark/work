@@ -12,7 +12,7 @@
 @snap[west span-40 text-center]
 
 #### @color[black](GraphQL)
-@fa[quote-left quote-graphql](@color[black](A query language for your API))
+@color[black](@fa[quote-left quote-graphql](A query language for your API))
 ![GRAPHQL](https://sv1.picz.in.th/images/2019/12/06/igcWBQ.png)
 @snapend
 

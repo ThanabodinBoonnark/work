@@ -1,7 +1,7 @@
 ---?color=linear-gradient(to top left, #bdc3c7, #2c3e50)
 # @color[orange](Markdown)
 
----?color=linear-gradient(180deg, #003366 30%, #white 30%)
+---?color=linear-gradient(180deg, #003366 33.33%, #white 33.33%)
 @snap[north]
 ## @color[orange](Markdown)
 @snapend
@@ -58,20 +58,20 @@
 @box[bg-gold](~~สวัสดี~~)
 @snapend
 
----
+---?color=linear-gradient(90deg,, #bdc3c7, #2c3e50)
 
-@snap[north span-50]
-ลิสต์แบบเรียงลำดับ (Ordered List)
+@snap[north-west span-50]
+@color[orange](ลิสต์แบบเรียงลำดับ (Ordered List))
 @snapend
 
 @snap[west span-50]
 
-#### Syntax
+#### @color[orange](Syntax)
 
-1. สวัสดี
-2. ฉัน
-3. ชื่อ
-4. อะไร
+@color[orange](1. สวัสดี)
+@color[orange](2. ฉัน)
+@color[orange](3. ชื่อ)
+@color[orange](4. อะไร)
    @snapend
 
 @snap[east span-50]
@@ -79,10 +79,10 @@
 ![](https://sv1.picz.in.th/images/2019/12/05/iZFSgv.jpg)
 @snapend
 
----
+---?color=linear-gradient(90deg, #bdc3c7, #2c3e50)
 
-@snap[north span-50]
-ลิสต์แบบไม่เรียงลำดับ (Unordered List)
+@snap[north-west span-50]
+@color[orange](ลิสต์แบบไม่เรียงลำดับ (Unordered List))
 @snapend
 
 @snap[west- span-50]
@@ -90,11 +90,15 @@
 #### Syntax
 
         - สวัสดี
+        
         - สวัสดี
+
         - สวัสดี
 
         * สวัสดี
+
         * สวัสดี
+
         * สวัสดี
 
 @snapend
@@ -103,70 +107,16 @@
 ![](https://sv1.picz.in.th/images/2019/12/05/iZFYCE.jpg)
 @snapend
 
----
+---?color=linear-gradient(180deg, #2c3e50 55.55%, #bdc3c7 55.55%)
 
-@snap[north span-50]
+## @color[orange](ใส่รูปภาพใน Markdown)
 
-list ซ้อน list (Nested List)
-@snapend
-
-@snap[west span-50]
-
-1. สวัสดี
-   - ฉันชื่อ
-   - อะไร
-1. ไม่รู้
-1. สินะ
-   @snapend
-
-@snap[east span-50]
-
-        ![] (https://sv1.picz.in.th/images/2019/12/05/iZyXqq.jpg)
-
-@snapend
-
----
-
-## ใส่รูปภาพใน Markdown
-
-โค้ต
+**@color[orange](โค้ต)**
 
     ![Google ](https://sv1.picz.in.th/images/2019/12/05/iZyaHz.jpg)
 
-เเสดงผล
+**@color[orange](เเสดงผล)**
 
 ## ![Google ](https://www.google.co.th/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
-
----
-
-@snap[north span-50]
-
-#### การใส่ตาราง (Tables)
-
-@snapend
-
-@snap[west span-40 text-center]
-
-#### Syntax
-
-####
-
-```
-    | หัวเรื่องแรก | หัวเรื่องที่สอง | หัวเรื่องสาม |
-    | :-------  | :-------: | --------: |
-    | ซ็าย       |  กึ่งกลาง   | ขวา       |
-    | ซ็าย       |  กึ่งกลาง   | ขวา       |
-```
-
-@snapend
-
-@snap[east span-60]
-
-| หัวเรื่องแรก | หัวเรื่องที่สอง | หัวเรื่องสาม |
-| :----------- | :-------------: | -----------: |
-| ซ็าย         |    กึ่งกลาง     |          ขวา |
-| ซ็าย         |    กึ่งกลาง     |          ขวา |
-
-@snapend
 
 ---

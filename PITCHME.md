@@ -62,7 +62,7 @@
 
 @snap[north span-50]
 
-### @color[orange](**ลิสต์(list)**)
+### @color[orange](**ลิสต์list**)
 #### 
 มีทังหมด3แบบประกอบด้วย
 #### 

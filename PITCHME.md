@@ -138,17 +138,7 @@
 
 @snapend
 
-@snap[east span-50]
 
-1. สวัสดี
-#### 
-2. ฉัน   
-#### 
-3. ชื่อ   
-#### 
-4. อะไร
-
-@snapend
 
 ---?color=linear-gradient(90deg, white 50%, black 50%)
 
@@ -181,14 +171,7 @@
 @snapend
 
 @snap[east]
-
-- สวัสดี
-
-* สวัสดี
-
-+ สวัสดี
-
-* สวัสดี
+![](https://sv1.picz.in.th/images/2019/12/09/iUNp1N.png)
 
 @snapend
 ---?color=linear-gradient(180deg, #2c3e50 52%, white 52%)

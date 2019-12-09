@@ -65,7 +65,7 @@
 
 @snap[west span-50]
 
-#### @color[black](**Syntax**)
+#### @color[black](Syntax)
 
 ```php
         ตัวเอียง     _ตัวเอียง_
@@ -120,7 +120,7 @@
 
 @snap[west span-50]
 
-#### @color[black](**Syntax**)
+#### @color[black](Syntax)
 
 ```php
        1. สวัสดี
@@ -160,7 +160,7 @@
 
 @snap[west- span-50]
 
-#### @color[black](**Syntax**)
+#### @color[black](Syntax)
 
 ```php
        - สวัสดี

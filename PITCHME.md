@@ -180,6 +180,8 @@
 
 @snapend
 
+@snap[east]
+
 - สวัสดี
 
 * สวัสดี
@@ -188,7 +190,7 @@
 
 * สวัสดี
 
-
+@snapend
 ---?color=linear-gradient(180deg, #2c3e50 52%, white 52%)
 
 ## @color[orange](ใส่รูปภาพใน Markdown)

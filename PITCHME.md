@@ -20,7 +20,7 @@
 @snap[north-west span-40 text-center]
 
 ### @color[white](การเขียนหัวเรื่องในขนาดต่างๆ)
-#### @color[black](Syntax)
+#### @color[white](Syntax)
 
 ```php
         # (หัวเรื่อง 1)
@@ -59,13 +59,7 @@
 ---?color=linear-gradient(90deg, white 50%, black 50%)
 
 @snap[north-west span-50]
-
 ### @color[black](**รูปแบบอักษรประกอบไปด้วย**)
-
-@snapend
-
-@snap[west span-50]
-
 #### @color[black](Syntax)
 
 ```php
@@ -88,8 +82,8 @@
 @snap[east span-30 text-08]
 
 @box[bg-white](**@color[black](สวัสดี)**)
-@box[bg-white](_@color[black])สวัสดี)_)
-@box[bg-white](~~@color[black]สวัสดี)~~)
+@box[bg-white](_@color[black](สวัสดี)_)
+@box[bg-white](~~@color[black](สวัสดี)~~)
 
 @snapend
 
@@ -114,13 +108,7 @@
 ---?color=linear-gradient(90deg, white 50%, black 50%)
 
 @snap[north-west span-50]
-
 ### @color[black](**ลิสต์แบบเรียงลำดับ**)
-
-@snapend
-
-@snap[west span-50]
-
 #### @color[black](Syntax)
 
 ```php

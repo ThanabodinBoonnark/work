@@ -13,7 +13,7 @@
 
 ---?color=linear-gradient(to top left, #bdc3c7, #2c3e50)
 
-## @color[orange](เริ่มเขียนMarkdown)
+## @color[orange](เริ่มเขียน Markdown)
 
 ---?color=linear-gradient(80deg, #003366 50%, #E8E8E8 50%)
 
@@ -58,7 +58,7 @@
 
 ---?color=linear-gradient(90deg, white 50%, black 50%)
 
-@snap[north-west span-50]
+@snap[north-west span-50 text-center]
 ### @color[black](**รูปแบบอักษรประกอบไปด้วย**)
 #### @color[black](Syntax)
 
@@ -67,7 +67,7 @@
 
         ตัวหนา     **ตัวหนา**
 
-        ขีดฆ่า       ~~ขีดฆ่า~~
+        ขีดฆ่า       ~~ ขีดฆ่า ~~
 
 ```
 
@@ -107,7 +107,7 @@
 
 ---?color=linear-gradient(90deg, white 50%, black 50%)
 
-@snap[north-west span-50]
+@snap[north-west span-50 text-center]
 ### @color[black](**ลิสต์แบบเรียงลำดับ**)
 #### @color[black](Syntax)
 
@@ -141,7 +141,7 @@
 
 ---?color=linear-gradient(90deg, white 50%, black 50%)
 
-@snap[north-west span-50]
+@snap[north-west span-50 text-center]
 
 ### @color[black](**ลิสต์แบบไม่เรียงลำดับ**)
 

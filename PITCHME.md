@@ -17,14 +17,8 @@
 
 ---?color=linear-gradient(80deg, #003366 50%, #E8E8E8 50%)
 
-@snap[north-west span-40]
-
-### @color[white](การเขียนหัวเรื่องในขนาดต่างๆ)
-
-@snapend
-
 @snap[north-west span-40 text-center]
-
+### @color[white](การเขียนหัวเรื่องในขนาดต่างๆ)
 #### @color[white](Syntax)
 
 ```php
@@ -132,6 +126,7 @@
 
 ### **ผลลัพธ์**
 
+## 
   1. สวัสดี
 #### 
 2. ฉัน
@@ -176,7 +171,7 @@
 
 @snap[east]
 #### 
-
+##### 
 ![](https://sv1.picz.in.th/images/2019/12/09/iUNp1N.png)
 
 @snapend
@@ -193,13 +188,11 @@
 ### ![Google ](https://www.google.co.th/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
 
 ---?color=linear-gradient(180deg, #2c3e50 52%, white 52%)
-
 ## @color[orange](ใส่ Video ใน Markdown)
-
 #### @color[orange](Syntax)
 
             ![Video](https://youtu.be/KmW0iSGlCgQ)
 
 **@color[orange](เเสดงผล)**
 
-<iframe width="240" height="114" src="https://www.youtube.com/embed/KmW0iSGlCgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="360" height="240" src="https://www.youtube.com/embed/KmW0iSGlCgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

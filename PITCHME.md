@@ -1,4 +1,3 @@
-- dasd
 ---?color=linear-gradient(to top left, #bdc3c7, #2c3e50)
 # @color[orange](Markdown)
 
@@ -140,13 +139,14 @@
 @snapend
 
 @snap[east span-50]
+
 1. สวัสดี
-
-1. ฉัน   
-
-1. ชื่อ   
-
-1. อะไร
+#### 
+2. ฉัน   
+#### 
+3. ชื่อ   
+#### 
+4. อะไร
 
 @snapend
 
@@ -180,7 +180,6 @@
 
 @snapend
 
-@snap[east span-15]
 - สวัสดี
 
 * สวัสดี
@@ -189,7 +188,6 @@
 
 * สวัสดี
 
-@snapend
 
 ---?color=linear-gradient(180deg, #2c3e50 52%, white 52%)
 

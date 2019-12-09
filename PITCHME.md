@@ -20,6 +20,7 @@
 @snap[north-west span-40 text-center]
 
 ### @color[white](การเขียนหัวเรื่องในขนาดต่างๆ)
+#### @color[black](Syntax)
 
 ```php
         # (หัวเรื่อง 1)
@@ -72,7 +73,7 @@
 
         ตัวหนา     **ตัวหนา**
 
-        ขีดฆ่า       ~~ ขีดฆ่า ~~
+        ขีดฆ่า       ~~ขีดฆ่า~~
 
 ```
 
@@ -86,9 +87,9 @@
 
 @snap[east span-30 text-08]
 
-@box[bg-white]@color[black]((**สวัสดี**))
-@box[bg-white]@color[black]((_สวัสดี_))
-@box[bg-white]@color[black]((~~สวัสดี~~))
+@box[bg-white](**@color[black](สวัสดี)**)
+@box[bg-white](_@color[black])สวัสดี)_)
+@box[bg-white](~~@color[black]สวัสดี)~~)
 
 @snapend
 

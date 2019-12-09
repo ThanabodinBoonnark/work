@@ -19,7 +19,7 @@
 
 @snap[north-west span-40 text-center]
 
-## @color[white](การเขียนหัวเรื่องในขนาดต่างๆ)
+### @color[white](การเขียนหัวเรื่องในขนาดต่างๆ)
 
 ```php
         # (หัวเรื่อง 1)
@@ -65,6 +65,8 @@
 
 @snap[west span-50]
 
+#### @color[black](**Syntax**)
+
 ```php
         ตัวเอียง     _ตัวเอียง_
 
@@ -78,15 +80,15 @@
 
 @snap[north-east span-50]
 
-### ผลลัพ์ที่ได้
+### ผลลัพธ์ที่ได้
 
 @snapend
 
 @snap[east span-30 text-08]
 
-@box[bg-green](**สวัสดี**)
-@box[bg-pink](_สวัสดี_)
-@box[bg-gold](~~สวัสดี~~)
+@box[bg-white]@color[black]((**สวัสดี**))
+@box[bg-white]@color[black]((_สวัสดี_))
+@box[bg-white]@color[black]((~~สวัสดี~~))
 
 @snapend
 
@@ -108,7 +110,7 @@
 
 @snapend
 
----?color=linear-gradient(100deg, white 50%, black 50%)
+---?color=linear-gradient(90deg, white 50%, black 50%)
 
 @snap[north-west span-50]
 

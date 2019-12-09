@@ -17,9 +17,14 @@
 
 ---?color=linear-gradient(80deg, #003366 50%, #E8E8E8 50%)
 
-@snap[north-west span-40 text-center]
+@snap[north-west span-40]
 
 ### @color[white](การเขียนหัวเรื่องในขนาดต่างๆ)
+
+@snapend
+
+@snap[north-west span-40 text-center]
+
 #### @color[white](Syntax)
 
 ```php

@@ -1,3 +1,4 @@
+- dasd
 ---?color=linear-gradient(to top left, #bdc3c7, #2c3e50)
 # @color[orange](Markdown)
 
@@ -139,13 +140,12 @@
 @snapend
 
 @snap[east span-50]
-
 1. สวัสดี
-#### 
+
 1. ฉัน   
-#### 
+
 1. ชื่อ   
-#### 
+
 1. อะไร
 
 @snapend
@@ -181,14 +181,14 @@
 @snapend
 
 @snap[east span-15]
+- สวัสดี
 
-       - สวัสดี
+* สวัสดี
 
-       * สวัสดี
++ สวัสดี
 
-       + สวัสดี
+* สวัสดี
 
-       * สวัสดี
 @snapend
 
 ---?color=linear-gradient(180deg, #2c3e50 52%, white 52%)
@@ -197,7 +197,7 @@
 
 #### @color[orange](Syntax)
 
-                ![Google ](https://sv1.picz.in.th/images/2019/12/05/iZyaHz.jpg)
+            ![Google ](https://sv1.picz.in.th/images/2019/12/05/iZyaHz.jpg)
 
 **@color[orange](เเสดงผล)**
 

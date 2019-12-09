@@ -110,7 +110,7 @@
 
 ---?color=linear-gradient(100deg, white 50%, black 50%)
 
-@snap[north-west span-100]
+@snap[north-west span-50]
 
 ### @color[black](**ลิสต์แบบเรียงลำดับ**)
 
@@ -121,13 +121,13 @@
 #### @color[black](**Syntax**)
 
 ```php
-        1. สวัสดี
+       1. สวัสดี
 
-        1. ฉัน
+       1. ฉัน
 
-        1. ชื่อ
+       1. ชื่อ
 
-        1. อะไร
+       1. อะไร
 ```
 
 @snapend
@@ -135,6 +135,14 @@
 @snap[north-east snap-50]
 
 ### **ผลลัพธ์**
+
+  1. สวัสดี
+#### 
+2. ฉัน
+#### 
+3. ชื่อ
+#### 
+  4. อะไร
 
 @snapend
 
@@ -171,6 +179,8 @@
 @snapend
 
 @snap[east]
+#### 
+
 ![](https://sv1.picz.in.th/images/2019/12/09/iUNp1N.png)
 
 @snapend
@@ -180,8 +190,20 @@
 
 #### @color[orange](Syntax)
 
-            ![Google ](https://sv1.picz.in.th/images/2019/12/05/iZyaHz.jpg)
+            ![Google](https://sv1.picz.in.th/images/2019/12/05/iZyaHz.jpg)
 
 **@color[orange](เเสดงผล)**
 
 ### ![Google ](https://www.google.co.th/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
+
+---?color=linear-gradient(180deg, #2c3e50 52%, white 52%)
+
+## @color[orange](ใส่ Video ใน Markdown)
+
+#### @color[orange](Syntax)
+
+            ![Video](https://youtu.be/KmW0iSGlCgQ)
+
+**@color[orange](เเสดงผล)**
+
+<iframe width="240" height="114" src="https://www.youtube.com/embed/KmW0iSGlCgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,4 +1,4 @@
----?image=audience.png&opacity=100&color=#E58537&size=100% 40%
+---?image=(https://sv1.picz.in.th/images/2019/12/10/i59rRI.png)
 @title[Introduction]
 
 @snap[north-west raleway-medium]

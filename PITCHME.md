@@ -21,7 +21,7 @@
 
 @snap[north-east raleway-medium span-55]
 #### วิธีการใช้งาน
-[The Desktop Docs @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-headings)
+[ตัวอย่างการทำหัวเรื่อง @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-headings)
 @snapend
 
 @snap[east span-50]
@@ -36,7 +36,7 @@
 
 @snap[north-east raleway-medium span-55]
 #### วิธีการใช้งาน
-[Pro + Lite Desktop Docs @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-section)
+[ตัวอย่างการทำ ตัวเอียง ตัวหนา ขีดฆ่า @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-section)
 @snapend
 
 @snap[east span-50]
@@ -51,7 +51,7 @@
 
 @snap[north-east raleway-medium span-55]
 #### วิธีการใช้งาน
-[Pro Security Docs @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-ordered-list)
+[ตัวอย่างการทำลิสต์แบบเรียงลำดับ @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-ordered-list)
 @snapend
 
 @snap[east span-50]
@@ -66,7 +66,7 @@
 
 @snap[north-east raleway-medium span-55]
 #### วิธีการใช้งาน
-[Pro Surveys Docs @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-unordered-list)
+[ตัวอย่างการทำลิสต์แบบไม่เรียงลำดับ @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-unordered-list)
 @snapend
 
 @snap[east span-50]
@@ -81,7 +81,7 @@
 
 @snap[north-east raleway-medium span-55]
 #### วิธีการใช้งาน
-[Pro Audio Docs @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-image--vdo)
+[ตัวอย่างการใส่รูปภาพ @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-image--vdo)
 @snapend
 
 @snap[east span-50]
@@ -96,7 +96,7 @@
 
 @snap[north-east raleway-medium span-55]
 #### วิธีการใช้งาน
-[Pro + Lite Power Docs @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-links)
+[ตัวอย่างการใส่ลิ้งค์ @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-links)
 @snapend
 
 @snap[east span-50]

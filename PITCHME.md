@@ -1,4 +1,4 @@
----?image=https://sv1.picz.in.th/images/2019/12/10/i59rRI.png
+---?image=https://sv1.picz.in.th/images/2019/12/10/i59rRI.png&size=cover&opacity=1
 @title[Introduction]
 
 ---?image=audience.png&size=100% 40%

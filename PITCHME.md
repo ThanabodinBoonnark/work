@@ -1,6 +1,9 @@
 ---?color=linear-gradient(to top left, #bdc3c7, #2c3e50)
 # @color[orange](Markdown)
-[leanpub](https://leanpub.com/courses/leanpub/markdown1/read/preview/1)
+
+
+[อ้างอิง leanpub](https://leanpub.com/courses/leanpub/markdown1/read/preview/2?preview=true#leanpub-auto-quotes)
+
 ---?color=linear-gradient(180deg, #003366 25%, white 25%)
 @snap[north]
 ## @color[orange](Markdown)

@@ -36,7 +36,7 @@
 
 @snap[north-east raleway-medium span-55]
 #### วิธีการใช้งาน
-[ตัวอย่างการทำรูปแบบอักษรต่างๆ @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-section)
+[ตัวอย่างรูปแบบอักษรต่างๆ @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-section)
 @snapend
 
 @snap[east span-50]

@@ -36,7 +36,7 @@
 
 @snap[north-east raleway-medium span-55]
 #### วิธีการใช้งาน
-[ตัวอย่างการทำ ตัวเอียง ตัวหนา ขีดฆ่า @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-section)
+[ตัวอย่างการทำรูปแบบอักษรต่างๆ @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-section)
 @snapend
 
 @snap[east span-50]
@@ -51,7 +51,7 @@
 
 @snap[north-east raleway-medium span-55]
 #### วิธีการใช้งาน
-[ตัวอย่างการทำลิสต์แบบเรียงลำดับ @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-ordered-list)
+[ตัวอย่างการทำลิสต์แบบเรียง @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-ordered-list)
 @snapend
 
 @snap[east span-50]
@@ -66,7 +66,7 @@
 
 @snap[north-east raleway-medium span-55]
 #### วิธีการใช้งาน
-[ตัวอย่างการทำลิสต์แบบไม่เรียงลำดับ @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-unordered-list)
+[ตัวอย่างการทำลิสต์แบบไม่เรียง @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-unordered-list)
 @snapend
 
 @snap[east span-50]

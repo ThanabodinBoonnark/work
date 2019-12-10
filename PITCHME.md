@@ -1,132 +1,108 @@
----?color=linear-gradient(to top left, #bdc3c7, #2c3e50)
-# @color[orange](Markdown)
+---?image=audience.png&opacity=100&color=#E58537&size=100% 40%
+@title[Introduction]
 
-
-[syntax-highlighting](https://leanpub.com/courses/leanpub/markdown1/read/preview/2?preview=true#leanpub-auto-code-and-syntax-highlighting)
-
----?color=linear-gradient(180deg, #003366 25%, white 25%)
-@snap[north]
-## @color[orange](Markdown)
+@snap[north-west raleway-medium]
+#### The Markdown Presentation
 @snapend
 
-@color[black](Mark down คือ ภาษาคอมพิวเตอร์ ที่มนุษย์สามารถอ่านเข้าใจได้ง่าย)
-@color[black](และด้วยความง่ายนี้มันก็สามารถแปลงกลับมาเป็นภาษาอื่นๆได้ง่ายด้วยกันเช่น HTML, XHTML และด้วยความง่ายเช่นนี้จึงมีเจ้าอื่นนำไป Customize)@color[black](ให้เป็นของตัวเองเช่น github ก็อาจจะเพิ่มพวก feature เข้าไปเช่น task list, mention และอื่นๆ)
-
----?color=linear-gradient(to top left, #bdc3c7, #2c3e50)
-
-## @color[orange](เริ่มเขียนMarkdown)
-
----?color=linear-gradient(100deg, #003366 50%, #E8E8E8 50%)
-
-@snap[west span-40 text-center]
-
-## @color[white](หัวเรื่อง)
-@color[white](@fa[quote-left quote-graphql](การเขียนหัวเรื่องในขนาดต่างๆ))
-![GRAPHQL](https://sv1.picz.in.th/images/2019/12/06/igbSyS.png)
+@snap[west montserrat-heavy heading-white]
+# MarkDown@css[faded text-05]
 @snapend
 
-@snap[north-east span-60 text-08]
-# @color[black](หัวเรื่อง 1)
-## @color[black](หัวเรื่อง 2)
-### @color[black](หัวเรื่อง 3)
-#### @color[black](หัวเรื่อง 4)
-##### @color[black](หัวเรื่อง 5)
-###### @color[black](หัวเรื่อง 6)
+---?image=audience.png&size=100% 40%
+
+### What can MarkDown do for you?
+
+@snap[north text-gray text-05 span-100]
+*มาชมความสามารถของ MarkDown กันเลย...*
 @snapend
 
----?color=linear-gradient(90deg, white 50%, black 50%)
+---?image=audience.png&size=100% 40%
 
-@snap[north-west span-50]
-### @color[black](**รูปแบบอักษรประกอบไปด้วย**)
+@snap[north-east raleway-medium span-55]
+#### วิธีการใช้งาน
+[The Desktop Docs @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-headings)
 @snapend
-
-@snap[west span-50]
-``` 
-        ตัวเอียง     _ตัวเอียง_     
-        ตัวหนา     **ตัวหนา**    
-        ขีดฆ่า       ~~ขีดฆ่า~~
-
-```
-@snapend   
-
-@snap[east span-30 text-08]
-@box[bg-green](**สวัสดี**)
-@snapend
-
-@snap[north-east span-30 text-08]
-@box[bg-pink](_สวัสดี_)
-@snapend
-
-@snap[south-east span-30 text-08]
-@box[bg-gold](~~สวัสดี~~)
-@snapend
-
----?color=linear-gradient(to top left, #bdc3c7, #2c3e50)
-
-@snap[north span-50]
-
-### @color[orange](**ลิสต์ list**)
-#### 
-มีทังหมด 2 แบบประกอบด้วย
-#### 
-1.ลิสต์แบบเรียงลำดับ (Ordered List)
-#### 
-2.ลิสต์แบบไม่เรียงลำดับ (Unordered List)
-
-@snapend
----?color=linear-gradient(80deg, white 50%, black 50%)
-
-@snap[north-west span-50]
-### @color[black](**ลิสต์แบบเรียงลำดับ**)
-@snapend
-
-@snap[west span-50]
-
-#### @color[black](**Syntax**)
-
-@color[black](1. สวัสดี)
-#### 
-@color[black](2. ฉัน)
-#### 
-@color[black](3. ชื่อ)
-#### 
-@color[black](4. อะไร)
-   @snapend
 
 @snap[east span-50]
-
-![](https://sv1.picz.in.th/images/2019/12/05/iZFSgv.jpg)
+![](https://sv1.picz.in.th/images/2019/12/10/i5BVQn.png)
 @snapend
 
----?color=linear-gradient(90deg, white 50%, black 50%)
-
-@snap[north-west span-50]
-### @color[black](**ลิสต์แบบไม่เรียงลำดับ**)
+@snap[west span-35 pro-feature-details]
+@fa[quote-left] **การทำหัวเรื่อง** ก็ง่ายๆ เลยครับแค่ใส่ # ข้างหน้าตัวอักษร
 @snapend
 
-@snap[west- span-50]
+---?image=audience.png&size=100% 40%
 
-#### @color[black](**Syntax**)
-
-@color[black](- สวัสดี)
-#### 
-@color[black](* สวัสดี)
-
-
+@snap[north-east raleway-medium span-55]
+#### วิธีการใช้งาน
+[Pro + Lite Desktop Docs @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-section)
 @snapend
 
-@snap[south-east span-50]
-![](https://sv1.picz.in.th/images/2019/12/05/iZFYCE.jpg)
+@snap[east span-50]
+![](https://sv1.picz.in.th/images/2019/12/10/i5Bp0W.png)
 @snapend
 
----?color=linear-gradient(180deg, #2c3e50 52%, white 52%)
+@snap[west span-40 pro-feature-details]
+@fa[quote-left] การทำ **ตัวเอียง ตัวหนา ขีดฆ่า** สามารถทำได้ง่ายๆ เลยครับโดยการใช้ Syntax ต่อไปนี้ **ตัวอย่างตามลิงค์เลยครับ**  
+@snapend
 
-## @color[orange](ใส่รูปภาพใน Markdown)
+---?image=audience.png&size=100% 40%
 
-**@color[orange](โค้ต)**
+@snap[north-east raleway-medium span-55]
+#### วิธีการใช้งาน
+[Pro Security Docs @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-ordered-list)
+@snapend
 
-    ![Google ](https://sv1.picz.in.th/images/2019/12/05/iZyaHz.jpg)
+@snap[east span-50]
+![](https://sv1.picz.in.th/images/2019/12/10/i5BHNS.png)
+@snapend
 
-**@color[orange](เเสดงผล)**
+@snap[west span-40 pro-feature-details]
+@fa[quote-left] **ลิสต์แบบเรียงลำดับ** มีตัวเลขกำกับ เราสามารถเขียนตามปกติได้เลย
+@snapend
 
-## ![Google ](https://www.google.co.th/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
+---?image=audience.png&size=100% 40%
+
+@snap[north-east raleway-medium span-55]
+#### วิธีการใช้งาน
+[Pro Surveys Docs @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-unordered-list)
+@snapend
+
+@snap[east span-50]
+![](https://sv1.picz.in.th/images/2019/12/10/i5BXrg.png)
+@snapend
+
+@snap[west span-40 pro-feature-details]
+@fa[quote-left] **ลิสต์แบบไม่เรียงลำดับ** เราจะใช้ * อยู่ด้านหน้าตัวอักษร  วิธีการเขียนก็ตามลิงค์เลยครับ
+@snapend
+
+---?image=audience.png&size=100% 40%
+
+@snap[north-east raleway-medium span-55]
+#### วิธีการใช้งาน
+[Pro Audio Docs @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-image--vdo)
+@snapend
+
+@snap[east span-50]
+![](https://sv1.picz.in.th/images/2019/12/10/i5fnF8.png?fbclid=IwAR1fGf37p9oPRoUFOyV_xTYLg93jz_W0nau2Cj7FBA_cmE-PFXYWbG-SUxo)
+@snapend
+
+@snap[west span-40 pro-feature-details]
+@fa[quote-left] **การใส่รูปภาพ** คือการนำรูปภาพจากเว็บหรือในเครื่องของเรามาใช้
+@snapend
+
+---?image=audience.png&size=100% 40%
+
+@snap[north-east raleway-medium span-55]
+#### วิธีการใช้งาน
+[Pro + Lite Power Docs @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-links)
+@snapend
+
+@snap[east span-50]
+![](https://sv1.picz.in.th/images/2019/12/10/i5hADv.png?fbclid=IwAR2MpGvpkB4T-QtDnEEKDDTNDW6S__9sqcHjLpIMUMZ9xPCmxgU6tPXovfI)
+@snapend
+
+@snap[west span-40 pro-feature-details]
+@fa[quote-left] **วิธีใส่ลิ้งค์** ก็เหมือนรูปภาพเลยครับแค่ลบ ! ข้างหน้าออก
+@snapend

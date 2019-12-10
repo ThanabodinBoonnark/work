@@ -2,7 +2,7 @@
 # @color[orange](Markdown)
 
 
-[อ้างอิง leanpub](https://leanpub.com/courses/leanpub/markdown1/read/preview/2?preview=true#leanpub-auto-quotes)
+[syntax-highlighting](https://leanpub.com/courses/leanpub/markdown1/read/preview/2?preview=true#leanpub-auto-code-and-syntax-highlighting)
 
 ---?color=linear-gradient(180deg, #003366 25%, white 25%)
 @snap[north]

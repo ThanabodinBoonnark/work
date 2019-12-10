@@ -29,7 +29,7 @@
 @snapend
 
 @snap[west span-35 pro-feature-details]
-@fa[quote-left] **การทำหัวเรื่อง** ก็ง่ายๆ เลยครับแค่ใส่ # ข้างหน้าตัวอักษร
+@fa[quote-left] **การทำหัวเรื่อง** ก็ง่ายๆ เลยครับแค่ใส่ (#) ข้างหน้าตัวอักษร
 @snapend
 
 ---?image=audience.png&size=100% 40%
@@ -64,7 +64,7 @@
 
 ---?image=audience.png&size=100% 40%
 
-@snap[north-east raleway-medium span-55]
+@snap[north-east raleway-medium span-60]
 #### วิธีการใช้งาน
 [ตัวอย่างการทำลิสต์แบบไม่เรียง @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-unordered-list)
 @snapend
@@ -74,7 +74,7 @@
 @snapend
 
 @snap[west span-40 pro-feature-details]
-@fa[quote-left] **ลิสต์แบบไม่เรียงลำดับ** เราจะใช้ * อยู่ด้านหน้าตัวอักษร  วิธีการเขียนก็ตามลิงค์เลยครับ
+@fa[quote-left] **ลิสต์แบบไม่เรียงลำดับ** เราจะใช้ (*) อยู่ด้านหน้าตัวอักษร  วิธีการเขียนก็ตามลิงค์เลยครับ
 @snapend
 
 ---?image=audience.png&size=100% 40%
@@ -104,5 +104,5 @@
 @snapend
 
 @snap[west span-40 pro-feature-details]
-@fa[quote-left] **วิธีใส่ลิ้งค์** ก็เหมือนรูปภาพเลยครับแค่ลบ ! ข้างหน้าออก
+@fa[quote-left] **วิธีใส่ลิ้งค์** ก็เหมือนรูปภาพเลยครับแค่ลบ (!) ข้างหน้าออก
 @snapend

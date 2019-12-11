@@ -1,6 +1,6 @@
 ---?image=audience.png&size=100% 40%
 
-@snap[north span-100 font-righteous]
+@snap[minpoint span-100 font-lnk free]
 kuy wawa yayoei
 @snapend
 

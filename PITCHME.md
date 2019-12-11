@@ -1,6 +1,8 @@
 ---?image=audience.png&size=100% 40%
 
-@fa[Juice fa-font](abfsgdhfhfgjfc)
+@snap[north span-100 font-righteous]
+kuy wawa yayoei
+@snapend
 
 @snap[north text-gray text-05 span-100]
 *มาชมความสามารถของ MarkDown กันเลย...*

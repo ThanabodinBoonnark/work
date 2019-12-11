@@ -1,5 +1,5 @@
 
-@ul[list-square-bullets list-spaced-bullets font-righteous text-pink](false)
+@ul[list-square-bullets list-spaced-bullets font-Solway text-pink](false)
 - Lorem ipsum dolor sit amet.
 - Aliquam tincidunt mauris eu risus.
 - Vestibulum auctor dapibus neque.

@@ -1,6 +1,6 @@
 ---?image=audience.png&size=100% 40%
 
-@fa[Rockwell fa-font][Rockwell](abfsgdhfhfgjfc)
+@fa[Rockwell fa-font](abfsgdhfhfgjfc)
 
 @snap[north text-gray text-05 span-100]
 *มาชมความสามารถของ MarkDown กันเลย...*
